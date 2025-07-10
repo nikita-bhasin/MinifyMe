@@ -28,7 +28,7 @@ export default function Navbar({ user, onLogout }: NavbarProps) {
               <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
             </svg>
           </div>
-          <h1 className="brand-title">LinkShrinker</h1>
+          <h1 className="brand-title">Minify</h1>
         </div>
         
         <div className="navbar-menu">
